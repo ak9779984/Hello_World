@@ -1,0 +1,6 @@
+D:\PRAMOD\ResearchAndDevelopment\ResearchAndDevelopment\bin\Debug\ResearchAndDevelopment.exe.config
+D:\PRAMOD\ResearchAndDevelopment\ResearchAndDevelopment\bin\Debug\ResearchAndDevelopment.exe
+D:\PRAMOD\ResearchAndDevelopment\ResearchAndDevelopment\bin\Debug\ResearchAndDevelopment.pdb
+D:\PRAMOD\ResearchAndDevelopment\ResearchAndDevelopment\obj\Debug\ResearchAndDevelopment.csprojResolveAssemblyReference.cache
+D:\PRAMOD\ResearchAndDevelopment\ResearchAndDevelopment\obj\Debug\ResearchAndDevelopment.exe
+D:\PRAMOD\ResearchAndDevelopment\ResearchAndDevelopment\obj\Debug\ResearchAndDevelopment.pdb
