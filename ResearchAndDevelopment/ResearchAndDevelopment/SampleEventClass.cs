@@ -22,12 +22,14 @@ namespace ResearchAndDevelopment
             }
             set
             {
-                _strValue = value;
-
-                if (StringValueChanged != null)
+                
+                if (StringValueChanged != null && this._strValue != value)
                 {
                     StringValueChanged();
                 }
+                _strValue = value;
+                //Console.WriteLine(this._strValue);
+
             }
         }
 

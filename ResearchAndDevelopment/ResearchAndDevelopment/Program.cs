@@ -14,6 +14,7 @@ namespace ResearchAndDevelopment
 
             SampleEventClass objEvent = new SampleEventClass();
             objEvent.StrValue = "My Test Result";
+
             Console.WriteLine("Before Value Change : "+objEvent.StrValue);
             //SampleEventClass.StringValueChangeDelegate objDelegate = new SampleEventClass.StringValueChangeDelegate(objEvent_StringValueChanged);
 
@@ -21,7 +22,7 @@ namespace ResearchAndDevelopment
 
             //objEvent.StingValueChanged += new SampleEventClass.StingValueChanged();
 
-            objEvent.StrValue = "My Test Result";//"Test Result Changed";
+            objEvent.StrValue = "My Test2 Result2";//"Test Result Changed";
             Console.WriteLine("After Value Change : " + objEvent.StrValue);
 
             #endregion
