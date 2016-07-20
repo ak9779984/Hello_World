@@ -4,3 +4,9 @@ D:\PRAMOD\ResearchAndDevelopment\ResearchAndDevelopment\bin\Debug\ResearchAndDev
 D:\PRAMOD\ResearchAndDevelopment\ResearchAndDevelopment\obj\Debug\ResearchAndDevelopment.csprojResolveAssemblyReference.cache
 D:\PRAMOD\ResearchAndDevelopment\ResearchAndDevelopment\obj\Debug\ResearchAndDevelopment.exe
 D:\PRAMOD\ResearchAndDevelopment\ResearchAndDevelopment\obj\Debug\ResearchAndDevelopment.pdb
+C:\Users\Bubby\Source\Repos\Hello_World\ResearchAndDevelopment\ResearchAndDevelopment\bin\Debug\ResearchAndDevelopment.exe.config
+C:\Users\Bubby\Source\Repos\Hello_World\ResearchAndDevelopment\ResearchAndDevelopment\obj\Debug\ResearchAndDevelopment.exe
+C:\Users\Bubby\Source\Repos\Hello_World\ResearchAndDevelopment\ResearchAndDevelopment\obj\Debug\ResearchAndDevelopment.pdb
+C:\Users\Bubby\Source\Repos\Hello_World\ResearchAndDevelopment\ResearchAndDevelopment\obj\Debug\ResearchAndDevelopment.csprojResolveAssemblyReference.cache
+C:\Users\Bubby\Source\Repos\Hello_World\ResearchAndDevelopment\ResearchAndDevelopment\bin\Debug\ResearchAndDevelopment.exe
+C:\Users\Bubby\Source\Repos\Hello_World\ResearchAndDevelopment\ResearchAndDevelopment\bin\Debug\ResearchAndDevelopment.pdb
